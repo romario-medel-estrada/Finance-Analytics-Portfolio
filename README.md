@@ -26,7 +26,7 @@ R code screencaptures are on the the word file.
 - Delivered results in professional reports with clear interpretations for business insights.
 
 ### 📉 Tableau Project for Dr Ishuan Li Simonson
-- **Tableau Visualization** - Visualization of Ney Work data set of wage income by their Descriptive Statistics. Includes Histrogramns, Bar Charts, Scatter Plots, and Heat Maps of varying income groups and their categories. 
+- **Tableau Visualization** - Visualization of New York data set of wage income by their Descriptive Statistics. Includes Histrogramns, Bar Charts, Scatter Plots, and Heat Maps of varying income groups and their categories. 
 
 ### 📑 Tentative Reports
 - **Will be continiously updated as I complete capstone courses throughout my senior year. These Projects will be added as the year progesses.** Tentative 
