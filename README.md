@@ -17,7 +17,8 @@ It includes financial modeling, statistical research, SPSS analysis, and busines
 - **Multi Regression Analysis** – Multi Regression Analysis on Income in the state of New York. Specifically looking at socio-economic factors to estimate the least amount of salary an individual is willing to accepet based on age, sex, and education.
 R code screencaptures are on the the word file.
 - **Linear Probability Model** – Conducted a simplified Linear Probability Model to find the probability of someone with specific socio-economic factors accepting income less than $35,000 per year.
-R code screencaptures are on the the word file. 
+R code screencaptures are on the the word file.
+-**Cluster Analysis**- Conducted Cluster analysis to find which clusters CVS can target in their hiring process in order to find the highest probable group of individuals who are willing to work for the lowest wage acceptable. 
 
 ### 📊 SPSS Statistical Analysis for Dr. Juan (Gloria) Meng
 - **Consumer Behavior Analysis** – Conducted chi-square tests, t-tests, and regression on survey data to evaluate purchase patterns.  
