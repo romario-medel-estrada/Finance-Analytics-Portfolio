@@ -18,7 +18,9 @@ It includes financial modeling, statistical research, SPSS analysis, and busines
 ### 📈 R Projects for Dr Ishuan Li Simonson 
 - **Multi Regression Analysis** – Multi Regression Analysis on Income in the state of New York. Specifically looking at socio-economic factors to estimate the least amount of salary an individual is willing to accept based on age, sex, and education.
 R code screencaptures are on the the word file.
+- [Multi Regression Analysis](Multi%20Regression%20Analysis%20Assignment%20%28NY%29.docx)
 - **Linear Probability Model** – Conducted a simplified Linear Probability Model to find the probability of someone with specific socio-economic factors accepting income less than $35,000 per year.
+- [Linear Probability Model](LPM%20Assignment%20New%20York%20%28MN%20Comp%29.docx)
 R code screencaptures are on the the word file.
 -**Cluster Analysis**- Conducted Cluster analysis to find which clusters CVS can target in their hiring process in order to find the highest probable group of individuals who are willing to work for the lowest wage acceptable. 
 
