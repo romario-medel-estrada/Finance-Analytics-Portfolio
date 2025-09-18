@@ -46,4 +46,4 @@ R code screencaptures are on the the word file.
 
 ## 📬 Contact
 📧 romario.medelestrada@mnsu.edu 507-491-4928 
-🔗 [LinkedIn](www.linkedin.com/in/romario-medel-estrada)
+🔗 [LinkedIn](https://www.linkedin.com/in/romario-medel-estrada/)
