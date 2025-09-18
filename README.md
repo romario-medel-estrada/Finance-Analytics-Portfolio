@@ -38,7 +38,7 @@ R code screencaptures are on the the word file.
 ## 🛠️ Tools & Skills
 - **Finance**: Valuation (DCF, WACC, NPV), FP&A, Forecasting, Portfolio Optimization  
 - **Analytics**: Advanced Excel (Solver, Pivot Tables, Macros), SPSS (t-tests, chi-square, regression) 
-- **Visualization**: Tableau (Dashboards, KPI Tracking), Power BI (optional)  
+- **Visualization**: Tableau (Dashboards, KPI Tracking) 
 - **Light Programming**: RStudio (Statistical Modeling)
 - **Soft Skills**: Analytical Thinking, Communication, Problem Solving, Teamwork, Attention to Detail, Adaptability
 
