@@ -9,9 +9,10 @@ It includes financial modeling, statistical research, SPSS analysis, and busines
 ## 📂 Project Categories
 
 ### 🧮 Excel Financial Models for Dr. Yuhao Chen's
-- **Target Valuation Model** – Worked on a project looking at Target to find free cash flow to equity and dividend growth model. The best part was caluclating the Beta, CAPM, covariance and variance of Target stock compared the the S&P500. 
+- **Target Valuation Model** – Worked on a project looking at Target to find free cash flow to equity and dividend growth model. The best part was caluclating the Beta, CAPM, covariance and variance of Target stock compared the the S&P500.
 - **Equity Valuation and Relative Valuation** – Calculated Financial Multiples on Nike stock based on Income Statement, Balance Sheet, and calculated Price to earnings ratios,book to value ratios, and enterprise value to EBITDA. 
-- **Tangency Portfolio Optimization/ Weight of Optimal Risky Portfolio** – Constructed Solver-based model maximizing Sharpe ratio for a multi-asset portfolio. This resulted in finding the weight of the optimal risky portfolio, combined with a risk free asset to create a Capital Allocation Line. Assets inlcuded Apple (AAPL),Johnson and Johnson (JNJ), Nextra Eergy Inc (NEE), and Nvidia (NVDA). 
+- **Tangency Portfolio Optimization/ Weight of Optimal Risky Portfolio** – Constructed Solver-based model maximizing Sharpe ratio for a multi-asset portfolio. This resulted in finding the weight of the optimal risky portfolio, combined with a risk free asset to create a Capital Allocation Line. Assets inlcuded Apple (AAPL),Johnson and Johnson (JNJ), Nextra Eergy Inc (NEE), and Nvidia (NVDA).
+- [Optimal Risky Portfolio Analysis](Optimal%20Risky%20Portfolio.xlsx) 
 
 ### 📈 R Projects for Dr Ishuan Li Simonson 
 - **Multi Regression Analysis** – Multi Regression Analysis on Income in the state of New York. Specifically looking at socio-economic factors to estimate the least amount of salary an individual is willing to accept based on age, sex, and education.
