@@ -21,8 +21,9 @@ R code screencaptures are on the the word file.
 - [Multi Regression Analysis](Multi%20Regression%20Analysis%20Assignment%20%28NY%29.docx)
 - **Linear Probability Model** – Conducted a simplified Linear Probability Model to find the probability of someone with specific socio-economic factors accepting income less than $35,000 per year.
 - [Linear Probability Model](LPM%20Assignment%20New%20York%20%28MN%20Comp%29.docx)
-R code screencaptures are on the the word file.
--**Cluster Analysis**- Conducted Cluster analysis to find which clusters CVS can target in their hiring process in order to find the highest probable group of individuals who are willing to work for the lowest wage acceptable. 
+- R code screencaptures are on the the word file.
+- **Cluster Analysis**- Conducted Cluster analysis to find which clusters CVS can target in their hiring process in order to find the highest probable group of individuals who are willing to work for the lowest wage acceptable.
+- [Cluster Analysis](Cluster%20Analysis%20New%20York.docx)
 
 ### 📊 SPSS Statistical Analysis for Dr. Juan (Gloria) Meng
 - **Consumer Behavior Analysis** – Conducted chi-square tests, t-tests, and regression on survey data to evaluate purchase patterns.  
@@ -31,7 +32,7 @@ R code screencaptures are on the the word file.
 
 ### 📉 Tableau Project for Dr Ishuan Li Simonson
 - **Tableau Visualization** - Visualization of New York data set of wage income by their Descriptive Statistics. Includes Histrogramns, Bar Charts, Scatter Plots, and Heat Maps of varying income groups and their categories. 
-
+- [Tableau Visualization](Tableau%20Visualization%20Assignment.docx)
 ### 📑 Tentative Reports
 - **Will be continiously updated as I complete capstone courses throughout my senior year. These Projects will be added as the year progesses.** Tentative 
 - Equity Research Stock Pitch for school Mav Fund (PDF)  
