@@ -44,9 +44,9 @@ R code screencaptures are on the the word file.
 ---
 
 ## 🛠️ Tools & Skills
-- **Finance**: Valuation (DCF, WACC, NPV), FP&A, Forecasting, Portfolio Optimization  
-- **Analytics**: Advanced Excel (Solver, Pivot Tables, Macros), SPSS (t-tests, chi-square, regression) 
-- **Visualization**: Tableau (Dashboards) 
+- **Finance**: Valuation (DCF, WACC, NPV), FP&A, Forecasting, Portfolio Optimization, Minimum Variance Portfolios, Capital Allocation Line.  
+- **Analytics**: Advanced Excel (Solver, Pivot Tables, Macros), SPSS (t-tests, chi-square, regression), Capital IQ, Morningstar Direct, and Microsoft Suite.
+- **Visualization**: Tableau (Dashboards), Excel
 - **Light Programming**: RStudio (Statistical Modeling)
 - **Soft Skills**: Analytical Thinking, Communication, Problem Solving, Teamwork, Attention to Detail, Adaptability
 
