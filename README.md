@@ -9,8 +9,8 @@ It includes financial modeling, statistical research, SPSS analysis, and busines
 ## 📂 Project Categories
 
 ###  Tentative Reports
-- **Will be continiously updated as I complete capstone courses throughout my senior year. These Projects will be added as the year progesses.**  
--### 📈 MAV Fund- Consumer Cyclical Secrtor Anayst
+- **Will be continiously updated as I complete capstone courses throughout my senior year. These Projects will be added as the year progesses.**
+### 📈 MAV Fund- Consumer Cyclical Secrtor Anayst
 - **Equity Research Stock Pitch for school Mav Fund**
 - I am currently the Analyst for the Consumer Cyclical Sector in the MAV Fund, I have placed a Sell rating on AutoNation Inc. You can find my report below. 
 - [Current Holdings Report- AutoNation Inc](Current%20Holding%20Report.docx)
