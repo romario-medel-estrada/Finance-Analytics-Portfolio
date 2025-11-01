@@ -16,7 +16,7 @@ It includes financial modeling, statistical research, SPSS analysis, and busines
 - [Current Holdings Report- AutoNation Inc](Current%20Holding%20Report.docx)
 - [AutoNation Inc Analysis](Autonation%20Inc%20Analysis.xlsx)
 ### Advanced Corporate Finance
--**Case Studies for Advanced Corporate Finance**
+- **Case Studies for Advanced Corporate Finance**
 - M&A AT&T acquires Time Warner and its 3 major subsidiries HBO, Warner Bros, and Tunrer Boradcasting (2016). My group was tasked to find the valuatiion of subsidiaries, and find the total value of Time Warner Inc. One of the main hurdles was the through the 10K filing we found that none of the subsidiaries owned any of the total debt, but we needed to find a tax expense for each subsidiary in order to be able to use the P/E ratios of the industry. 
 
 
