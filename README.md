@@ -35,8 +35,11 @@ R code screencaptures are on the the word file.
 - [Tableau Visualization](Tableau%20Visualization%20Assignment.docx)
 ### 📑 Tentative Reports
 - **Will be continiously updated as I complete capstone courses throughout my senior year. These Projects will be added as the year progesses.** Tentative 
-- Equity Research Stock Pitch for school Mav Fund (PDF)  
-- Case Studies for Advanced Corporate Finance  
+- Equity Research Stock Pitch for school Mav Fund (PDF)
+- I am currently the Analyst for the Consumer Cyclical Sector in the MAV Fund, I have placed a Sell rating on AutoNation Inc. You can find my report below. 
+- [Current Holdings Report- AutoNation Inc](Current%Holding%Report.docx) 
+- Case Studies for Advanced Corporate Finance
+- M&A AT&T acquires Time Warner and its 3 major subsidiries HBO, Warner Bros, and Tunrer Boradcasting (2016). My group was tasked to find the valuatiion of subsidiaries, and find the total value of Time Warner Inc. One of the main hurdles was the through the 10K filing we found that none of the subsidiaries owned any of the total debt, but we needed to find a tax expense for each subsidiary in order to be able to use the P/E ratios of the industry. 
 
 ---
 
